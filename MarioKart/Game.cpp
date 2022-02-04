@@ -1,3 +1,4 @@
+// Anastasia Kravale
 
 #ifdef _DEBUG 
 #pragma comment(lib,"sfml-graphics-d.lib") 
@@ -17,10 +18,6 @@
 
 #include <SFML/Graphics.hpp>
 #include "Game.h"
-
-/*
-Written by Peter Lowe May 2015
-Total Project Time ~ 10 hours*/
 
 
 int main()
