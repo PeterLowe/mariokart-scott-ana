@@ -7,7 +7,8 @@
 
 
 /// <summary>
-/// @author Peter Lowe
+/// Scott Mitchell
+/// 
 /// @version 1.0
 /// @date may 2016
 /// @brief main game class conatins main and run game loop.
